@@ -1,11 +1,20 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: blanchedalmond;
+
 }
 
 *{
+    
     margin: 0px;
     padding: 0px;
+    translate:x ;
+    font-family: 'Courier New', Courier, monospace;
+    position: ab;
+}
+
+nav{
+    position: sticky;
 }
 
 nav ul {
@@ -17,6 +26,7 @@ nav ul {
 }
 nav ul li{
     padding: 0px 12px;
+
 }
 .logo{
     padding: 0px 8px;
@@ -33,15 +43,17 @@ nav ul li{
     border-radius: 50px;
 }
 .container{
-    background-color: grey;
+    /* background-color: grey; */
     color: black;
-    height: 85vh;
+    height: 60vh;
     font-family: sans-serif;
     width: 70%;
     margin: 20px auto;
+    margin-left: 30%;
+    /* margin-bottom: 10%; */
     padding: 25px;
     border-radius: 20px;
-    background-image: url("cover2.jfif");
+    /* background-image: url("cover2.jfif"); */
 }
 .bottom{
     position: sticky;

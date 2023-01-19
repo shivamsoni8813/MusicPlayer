@@ -13,9 +13,9 @@ let btn = Array.from( document.getElementsByClassName('btn'))
 let songs = [
     { songName: "kash tum ho", filePath: "song/1.mp3", coverPath: "cover/1.jfif" },
     { songName: "a sanam ho", filePath: "song/2.mp3", coverPath: "cover/2.jfif" },
-    { songName: "punjabi ho", filePath: "song/3.mp3", coverPath: "cover/3.jfif" },
-    { songName: "na na na na ho", filePath: "song/4.mp3", coverPath: "cover/4.jfif" },
-    { songName: "kabhi toh ho", filePath: "song/5.mp3", coverPath: "cover/5.jfif" },
+    { songName: "tune pagal h kiya", filePath: "song/3.mp3", coverPath: "cover/3.jfif" },
+    { songName: "dilliwali", filePath: "song/4.mp3", coverPath: "cover/4.jfif" },
+    { songName: "nananan", filePath: "song/5.mp3", coverPath: "cover/5.jfif" },
     { songName: "kuch hum kahe", filePath: "song/6.mp3", coverPath: "cover/6.jfif" },
     { songName: "kuch tum kaho", filePath: "song/7.mp3", coverPath: "cover/7.jfif" },
 
